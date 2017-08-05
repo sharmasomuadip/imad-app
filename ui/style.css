@@ -10,7 +10,7 @@ body {
 .whole{
     max-width: 1000px;
     min-width: 800px;
-    height: auto;
+    height: 1000px;
     margin: auto;
     padding: 10px;
     background-color: #ffffcc ;
