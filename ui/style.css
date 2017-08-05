@@ -1,11 +1,14 @@
 body {
    background-color: lightgrey;
    padding: 0px 5px;
-   max-width:100px;
-   margin: auto;
 }
 #profile-image{
     width: 200px;
     height: 200px;
     float: left;
+}
+.whole{
+    max-width: 1000px;
+    min-width: 800px;
+    margin: auto;
 }
