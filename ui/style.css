@@ -1,4 +1,7 @@
 body {
    background-color: lightgrey;
 }
-
+#profile-image{
+    width: 100px;
+    height: 100px;
+}
