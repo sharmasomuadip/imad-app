@@ -27,4 +27,8 @@ body {
 }
 #profile-details{
     margin-left: 210px;
+    
+}
+#name{
+    font: "Comic Sans MS";
 }
