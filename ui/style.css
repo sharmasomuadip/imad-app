@@ -53,6 +53,6 @@ body {
 #college-small-name{
     
     height: 53.4px;
-    vertical-align: middle;
+    vertical-align: -webkit-baseline-middle;
     
 }
