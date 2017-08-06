@@ -5,7 +5,7 @@ body {
 #profile-image{
     width: 200px;
     height: 200px;
-   
+   float: left;
 }
 #whole{
     max-width: 1000px;
@@ -17,5 +17,6 @@ body {
 }
 #profile{
     width: 70%;
+    height:220px;
     background-color: white;
 }
