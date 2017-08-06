@@ -10,6 +10,7 @@ body {
 #whole{
     max-width: 1000px;
     min-width: 800px;
+    padding-top: 10px;
 
     margin: auto;
     padding: 10px;
