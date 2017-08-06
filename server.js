@@ -16,8 +16,8 @@ app.get('/images/profile.jpg', function (req, res) {
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
 });
-app.get('/fonts/PG_Roof Runners_active_b.ttf', function (req, res) {
-  res.sendFile(path.join(__dirname, 'fonts', 'PG_Roof Runners_active_b.ttf'));
+app.get('/fonts/roof-runners.ttf', function (req, res) {
+  res.sendFile(path.join(__dirname, 'fonts', 'roof-runners.ttf'));
 });
 app.get('/ui/madi.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'madi.png'));
