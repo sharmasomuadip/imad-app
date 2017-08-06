@@ -1,4 +1,7 @@
-
+@font-face{
+    font-family: "roof runners";
+    src: url("/fonts/PG_Roof Runners_active_b.ttf");
+}
 body {
    background-color: #f3f3e9;
    padding: 0px;
@@ -35,6 +38,7 @@ body {
     font-size: 25px;
     margin: 0px;
     color: dimgrey;
+    font-family: "roof runners";
 
 }
 #student{
