@@ -7,11 +7,14 @@ body {
     height: 200px;
    
 }
-.whole{
+#whole{
     max-width: 1000px;
     min-width: 800px;
 
     margin: auto;
     padding: 10px;
     background-color: #c3c3bc;
+}
+#profile{
+    width: 20%;
 }
