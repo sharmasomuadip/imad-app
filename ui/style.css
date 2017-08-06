@@ -25,3 +25,6 @@ body {
     background-color: white;
     margin-top:0px;
 }
+#profile-details{
+    float: right;
+}
