@@ -46,7 +46,11 @@ body {
      color: dimgrey;
 }
 #college-small img{
-    float: right;
-    height: 35.6px;
-    width: 35px;
+    float: left;
+    height: 53.4px;
+    width: 52.5px;
+}
+#college-small-name{
+    
+    
 }
