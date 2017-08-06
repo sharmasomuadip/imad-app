@@ -19,7 +19,8 @@ body {
 }
 #profile{
     width: 70%;
-    height:220px;
+    height:210px;
+    padding: 5px;
     background-color: white;
     margin-top:0px;
 }
