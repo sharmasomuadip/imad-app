@@ -7,6 +7,7 @@ app.use(morgan('combined'));
 
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
+  console.log("Use Requeste For Index.htm");
 });
 
 app.get('/images/profile.jpg', function (req, res) {
