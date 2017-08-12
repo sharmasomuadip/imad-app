@@ -1,3 +1,5 @@
 console.log('Loaded!');
-var obj= document.getElementById("Student");
-obj.InnerHTML="DO NOT CHECKI";
+var access = document.getElementById("Student");
+var code = access.innerHTML;
+code = code + " midnight";
+alert(code);
