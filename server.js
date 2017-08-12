@@ -20,18 +20,17 @@ app.get('/ui/style.css', function (req, res) {
 app.get('/fonts/roof-runners.ttf', function (req, res) {
   res.sendFile(path.join(__dirname, 'fonts', 'roof-runners.ttf'));
 });
+app.get('/ui/main.js', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'main.js'));
+});
 app.get('/ui/madi.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'madi.png'));
 });
-
 app.get('/article-one', function (req, res) {
 res.sendFile(path.join(__dirname, 'ui', 'aritcle-one.html'));
 });
 
-app.get('/ui/main.js', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui','server.js'));
-  console.log("Use Requeste For main.js");
-});
+
 
 
 // Do not change port, otherwise your app won't run on IMAD servers
