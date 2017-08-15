@@ -62,3 +62,8 @@ body {
     line-height: normal;
     
 }
+#submitComment{
+    margin: 0px;
+    height: auto;
+    width: auto;
+}
