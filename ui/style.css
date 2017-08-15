@@ -62,9 +62,9 @@ body {
     line-height: normal;
     
 }
-#submitComment{
+#getComment{
     margin: 0px;
     height: auto;
     width: auto;
-    clear: right;
+    clear: left;
 }
