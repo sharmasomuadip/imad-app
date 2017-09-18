@@ -63,8 +63,9 @@ body {
     
 }
 #getComment{
-    margin: 0px;
+    margin: 20px 0px;
     height: auto;
     width: auto;
-    clear: left;
+    
+    
 }
