@@ -62,7 +62,7 @@ body {
     line-height: normal;
     
 }
-#getComment{
+#getComment #submitBtn{
     margin: 20px 0px;
     height: auto;
     width: auto;
